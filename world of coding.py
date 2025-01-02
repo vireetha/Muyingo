@@ -1,0 +1,5 @@
+print("Welcome to the world of Programming!")
+print(4)
+print("This is my Python class",6)
+print("Welcome to Coding class \n My 1st session is about python")
+print("How is your class ?", end=".")
